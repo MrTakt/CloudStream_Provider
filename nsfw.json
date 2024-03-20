@@ -1,0 +1,8 @@
+{
+    "name": "NSFW Provider",
+    "description": "Cloudstream Plugin Repository Fix Error Load Plugin",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/mrtakt/cloudstream-repo/reponya/nsfw-repo.json"
+    ]
+}
