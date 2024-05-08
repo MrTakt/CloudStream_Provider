@@ -1,0 +1,8 @@
+{
+    "name": "Arabico",
+    "description": "Berisi Tentang Hal Di Arab.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://github.com/aymanbest/Arabico/raw/main/plugins.json"
+    ]
+  }
