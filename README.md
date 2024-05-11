@@ -20,7 +20,7 @@ Selamat Datang 🚀,Ini adalah plugin untuk menjalakan aplikasi cloudstream 👨
 **Pilih Plugin Yang Ingin Diinstal:**
 
 
-- 👨🏽‍💻 Plugin Dari Arabico [Tentang Arab:v]<a href="cloudstreamrepo://raw.githubusercontent.com/MrTakt/CloudStream_Provider/main/arab.json"><img align="center" width="22px" src="https://www.svgrepo.com/show/16808/add-button.svg" /></a>
+- <a href="cloudstreamrepo://raw.githubusercontent.com/MrTakt/CloudStream_Provider/main/arab.json" rel target="nofollow noopener _blank">👨🏽‍💻 Plugin Dari Arabico [Tentang Arab:v]</a>
 - 🌱 Plugin Dari Avocado [Mengandung 18+] <a href="cloudstreamrepo://raw.githubusercontent.com/MrTakt/CloudStream_Provider/main/avocado.json"><img align="center" width="22px" src="https://www.svgrepo.com/show/16808/add-button.svg" /></a>
 - 👯 Plugin Dari Hexated [Rekomendasi] (cloudstreamrepo://raw.githubusercontent.com/MrTakt/CloudStream_Provider/main/hexated.json) 🤝;
 - 🤔 Plugin Dari Multilingual [Multibahasa] (cloudstreamrepo://raw.githubusercontent.com/MrTakt/CloudStream_Provider/main/multilingual.json);
