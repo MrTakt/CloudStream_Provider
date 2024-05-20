@@ -1,8 +1,0 @@
-{
-    "name": "NSFW Providers",
-    "description": "Cloudstream Plugin Repository Fix Error Load Plugin",
-    "manifestVersion": 1,
-    "pluginLists": [
-        "https://codeberg.org/cloudstream/cs3xxx-repo/raw/branch/builds/plugins.json"
-    ]
-}
